@@ -36,7 +36,7 @@ jobs:
          username: ${{ secrets.DOCKER_USERNAME }}
          password: ${{ secrets.DOCKER_PASSWORD }}
          dockerfile: Dockerfile
-         repository: bilalelharrasi/github_actions
+         repository: r0631533/github_actions
          tags: latest
          tag_with_ref: true
 
